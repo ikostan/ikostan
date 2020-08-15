@@ -1,5 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://gpvc.arturio.dev/ikostan)
+![Update README](https://github.com/ikostan/ikostan/workflows/Update%20README/badge.svg)
 
 ### Hi there 👋, my name is Egor Kostan
 #### I am software developer enthusiast
