@@ -6,8 +6,6 @@
 
 My main interests are: Python, Software Automation (Selenium, Unit Test), Django, Godot
 
-Skills: Python / MySQL / HTML
-
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
 
 [![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
