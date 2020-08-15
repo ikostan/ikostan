@@ -9,12 +9,15 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
 
-### Recent Activity
+### Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
-### Dev Metrics
+### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -29,8 +32,13 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 <details>
   <summary><b>Dynamically generated GitHub stats + free resources</b></summary>
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
+
+
 - [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
+
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 </details>
