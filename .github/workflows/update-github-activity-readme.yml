@@ -1,3 +1,8 @@
+# GitHub Activity in Readme
+# Source: https://github.com/jamesgeorge007/jamesgeorge007/blob/master/.github/workflows/update-readme.yml
+# Source: https://github.com/jamesgeorge007/github-activity-readme
+# Source: https://github.com/JasonEtco/activity-box
+
 name: Update Github README Activity
 
 on:
