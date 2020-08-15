@@ -12,6 +12,9 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 ### Recent Activity
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### Dev Metrics
