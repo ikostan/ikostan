@@ -32,7 +32,10 @@ No Activity tracked this Week
 <details>
   <summary><b>Dynamically generated GitHub stats + free resources</b></summary>
 
-- [Dev Metrics in Readme (WAKA)](https://github.com/athul/waka-readme)
+- [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
+
+
+
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
 - [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
