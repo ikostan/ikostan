@@ -6,10 +6,11 @@ on:
 
 jobs:
   build:
+    name: Update Readme with Recent Activity
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - uses: ikostan/ikostan@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
