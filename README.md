@@ -31,8 +31,8 @@ No Activity tracked this Week
 
 <details>
   <summary><b>WakaTime Weekly Metrics on your Profile Readme</b></summary>
-
-WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
+ <br><br>
+ WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
 
 - [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
 
