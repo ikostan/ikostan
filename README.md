@@ -30,15 +30,31 @@ No Activity tracked this Week
 ### How to build similar README page
 
 <details>
-  <summary><b>Dynamically generated GitHub stats + free resources</b></summary>
+  <summary><b>WakaTime Weekly Metrics on your Profile Readme</b></summary>
+ <br>
+ WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
 
 - [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
 
+</details>
+
+<details>
+  <summary><b>Github Activity Readme</b></summary>
 
 - [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
 
+</details>
+
+<details>
+  <summary><b>Github Readme Stats</b></summary>
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary><b>Profile Readme Development Stats</b></summary>
+
 - [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 </details>
