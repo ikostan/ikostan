@@ -21,6 +21,8 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 [![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.ikostan.vercel.app/api?username=ikostan&show_icons=true&theme=merko&hide=issues) 
 
+### How to build similar README page
+
 <details>
   <summary><b>Dynamically generated GitHub stats + free resources</b></summary>
 
