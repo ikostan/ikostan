@@ -17,7 +17,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### Dev Metrics
+### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -35,9 +35,10 @@ No Activity tracked this Week
 - [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
 
 
+- [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
+
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
 - [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 </details>
