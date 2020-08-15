@@ -26,6 +26,7 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
+- [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 </details>
 
