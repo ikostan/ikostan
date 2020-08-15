@@ -1,5 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://gpvc.arturio.dev/ikostan)  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/egor-kostan/)
+
 
 ### Hi there 👋, my name is Egor Kostan
 #### I am software developer enthusiast
