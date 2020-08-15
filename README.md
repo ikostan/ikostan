@@ -8,7 +8,11 @@ My main interests are: Python, Software Automation (Selenium, Unit Test), Django
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.ikostan.vercel.app/api?username=ikostan&show_icons=true&theme=merko&hide=issues) 
