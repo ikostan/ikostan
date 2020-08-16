@@ -13,7 +13,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 ---
 
-### Weekly development breakdown
+### :zap: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -29,7 +29,7 @@ No Activity tracked this Week
 
 ---
 
-### GitHub Stats
+### :zap: GitHub Stats
 
 [![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.ikostan.vercel.app/api?username=ikostan&show_icons=true&theme=merko&hide=issues) 
