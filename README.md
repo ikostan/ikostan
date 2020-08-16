@@ -90,3 +90,6 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 ### :zap: My recent activities on GitHub
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
