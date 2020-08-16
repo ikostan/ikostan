@@ -1,7 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://gpvc.arturio.dev/ikostan)
 ![Waka Readme](https://github.com/ikostan/ikostan/workflows/Waka%20Readme/badge.svg)
-![Github Recent Activity](https://github.com/ikostan/ikostan/workflows/Update%20Github%20README%20Activity/badge.svg)
+![Github Recent Activity](https://github.com/ikostan/ikostan/workflows/Github%20Recent%20Activity/badge.svg)
 
 ### Hi there 👋, my name is Egor Kostan
 #### I am software developer enthusiast
