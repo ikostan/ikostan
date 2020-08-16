@@ -1,9 +1,9 @@
- [![Linkedin Badge](https://img.shields.io/badge/-EgorKostan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egor-kostan/)](https://www.linkedin.com/in/egor-kostan/)
- ![GitHub followers](https://img.shields.io/github/followers/ikostan)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeev-vn%2Fhit-counter)](https://hits.seeyoufarm.com)
- ![Profile views](https://gpvc.arturio.dev/ikostan)
- ![Waka Readme](https://github.com/ikostan/ikostan/workflows/Waka%20Readme/badge.svg)
- ![Recent Activity](https://github.com/ikostan/ikostan/workflows/Recent%20Activity/badge.svg)
+[![Linkedin Badge](https://img.shields.io/badge/-EgorKostan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egor-kostan/)](https://www.linkedin.com/in/egor-kostan/)
+![GitHub followers](https://img.shields.io/github/followers/ikostan)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fikostan%2Fhit-counter)](https://hits.seeyoufarm.com)
+![Profile views](https://gpvc.arturio.dev/ikostan)
+![Waka Readme](https://github.com/ikostan/ikostan/workflows/Waka%20Readme/badge.svg)
+![Recent Activity](https://github.com/ikostan/ikostan/workflows/Recent%20Activity/badge.svg)
 
 ### Hi there 👋, my name is Egor Kostan
 
