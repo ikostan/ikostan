@@ -15,6 +15,9 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in opensource development projects.
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
 
 ---
 
