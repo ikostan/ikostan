@@ -20,10 +20,10 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#226](https://github.com//iKostanOrg/codewars/pull/226) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
-3. 🎉 Merged PR [#60](https://github.com//ikostan/Exercism_Python_Track/pull/60) in [ikostan/Exercism_Python_Track](https://github.com//ikostan/Exercism_Python_Track)
-4. ❗️ Closed issue [#41160](https://github.com//godotengine/godot/issues/41160) in [godotengine/godot](https://github.com//godotengine/godot)
-5. 🗣 Commented on [#41160](https://github.com//godotengine/godot/issues/41160) in [godotengine/godot](https://github.com//godotengine/godot)
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ---
