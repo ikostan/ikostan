@@ -7,7 +7,7 @@ name: Github Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   build:
