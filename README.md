@@ -41,7 +41,9 @@ No Activity tracked this Week
 
 <details>
   <summary><b>Github Activity Readme</b></summary>
-
+ <br>
+ Updates README.md with the recent GitHub activity of a user.
+  
 - [GitHub Activity in Readme](https://github.com/jamesgeorge007/github-activity-readme)
 
 </details>
