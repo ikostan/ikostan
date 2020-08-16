@@ -13,7 +13,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 ---
 
-### :zap: My recent Activities on GitHub
+### :zap: My recent activities on GitHub
 
 <!--START_SECTION:activity-->
 
