@@ -3,7 +3,7 @@
 # Source: https://github.com/jamesgeorge007/github-activity-readme
 # Source: https://github.com/JasonEtco/activity-box
 
-name: Github Recent Activity
+name: Recent Activity
 
 on:
   schedule:
