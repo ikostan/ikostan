@@ -18,14 +18,20 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+---
 
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.ikostan.vercel.app/api?username=ikostan&show_icons=true&theme=merko&hide=issues) 
+
+---
 
 ### How to build similar README page
 
