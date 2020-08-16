@@ -6,7 +6,7 @@
 ### Hi there 👋, my name is Egor Kostan
 #### I am software developer enthusiast
 
-My main interests are: Python, Software Automation (Selenium, Unit Test), Django, Godot
+My main interests are: Python:snake:, Software Automation (Selenium, Unit Test), Django, Godot
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
 
