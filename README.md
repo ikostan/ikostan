@@ -14,6 +14,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in opensource development projects.
+<!--START_SECTION:activity-->
 
 ---
 
@@ -85,11 +86,3 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 </details>
-
-
-### :zap: My recent activities on GitHub
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
