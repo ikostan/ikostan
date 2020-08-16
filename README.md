@@ -11,6 +11,8 @@
 My main interests are: Python:snake:, Software Automation (Selenium, Unit Test), Django, Godot
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & [Godot](https://godotengine.org/)
+- 👯 I’m looking to collaborate with other developers
+- 😊 Willing to contribute in opensource development projects.
 
 ---
 
