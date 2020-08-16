@@ -1,9 +1,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://gpvc.arturio.dev/ikostan)
 ![Waka Readme](https://github.com/ikostan/ikostan/workflows/Waka%20Readme/badge.svg)
-![Github Recent Activity](https://github.com/ikostan/ikostan/workflows/Github%20Recent%20Activity/badge.svg)
+![Recent Activity](https://github.com/ikostan/ikostan/workflows/Recent%20Activity/badge.svg)
 
 ### Hi there 👋, my name is Egor Kostan
+
 #### I am software developer enthusiast
 
 My main interests are: Python:snake:, Software Automation (Selenium, Unit Test), Django, Godot
