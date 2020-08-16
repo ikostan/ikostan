@@ -18,7 +18,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### Recent GitHub Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
