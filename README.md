@@ -50,8 +50,17 @@ No Activity tracked this Week
 
 <details>
   <summary><b>Github Readme Stats</b></summary>
+ <br>
+ Features:
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+ * GitHub Stats Card
+ * GitHub Extra Pins
+ * Top Languages Card
+ * Themes
+ * Customization
+ * Deploy Yourself
+
+Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
