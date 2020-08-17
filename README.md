@@ -36,15 +36,6 @@ No Activity tracked this Week
 ### How to build similar README page
 
 <details>
-  <summary><b>WakaTime Weekly Metrics on your Profile Readme</b></summary>
- <br>
- WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
-
-- [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
-
-</details>
-
-<details>
   <summary><b>Github Readme Stats</b></summary>
  <br>
  Features:
@@ -61,8 +52,11 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 </details>
 
 <details>
-  <summary><b>Profile Readme Development Stats</b></summary>
+  <summary><b>WakaTime Weekly Metrics on your Profile Readme</b></summary>
+ <br>
+ WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
 
+- [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
 - [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 </details>
