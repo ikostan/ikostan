@@ -34,7 +34,7 @@ SQL      1 min           ░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### How to build similar README page
+### :clipboard: How to build similar README
 
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
