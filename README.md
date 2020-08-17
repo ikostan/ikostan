@@ -20,8 +20,8 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//jamesgeorge007/github-activity-readme/issues/12) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#228](https://github.com//iKostanOrg/codewars/issues/228) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
+2. ❗️ Opened issue [#12](https://github.com//jamesgeorge007/github-activity-readme/issues/12) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 3. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
