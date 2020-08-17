@@ -37,7 +37,7 @@ SQL      1 min           ░░░░░░░░░░░░░░░░░░�
 ### How to build similar README page
 
 <details>
-  <summary><b>GitHub Readme Stats</b></summary>
+  <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
  <br>
  Features:
 
@@ -53,7 +53,7 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 </details>
 
 <details>
-  <summary><b>WakaTime Weekly Metrics</b></summary>
+  <summary><b>:chart_with_upwards_trend: WakaTime Weekly Metrics</b></summary>
  <br>
  WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
 
@@ -63,7 +63,7 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 </details>
 
 <details>
-  <summary><b>Free resources</b></summary>
+  <summary><b>:free: Free resources</b></summary>
 
 - [Free SVG icons for popular brands](https://simpleicons.org/)
 - [Shields/Badges](https://github.com/badges/shields)
