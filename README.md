@@ -20,9 +20,9 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com//iKostanOrg/codewars/issues/229) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
-2. 🗣 Commented on [#228](https://github.com//iKostanOrg/codewars/issues/228) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
-3. ❗️ Opened issue [#12](https://github.com//jamesgeorge007/github-activity-readme/issues/12) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#227](https://github.com//iKostanOrg/codewars/pull/227) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
+2. 🎉 Merged PR [#61](https://github.com//ikostan/Exercism_Python_Track/pull/61) in [ikostan/Exercism_Python_Track](https://github.com//ikostan/Exercism_Python_Track)
+3. 🗣 Commented on [#229](https://github.com//iKostanOrg/codewars/issues/229) in [iKostanOrg/codewars](https://github.com//iKostanOrg/codewars)
 <!--END_SECTION:activity-->
 
 ---
