@@ -34,8 +34,8 @@ SQL      1 min           ░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### :clipboard: How to build similar README
-
+### :wrench: How to build similar README
+<br>
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
  <br>
