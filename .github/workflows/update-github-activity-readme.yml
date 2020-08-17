@@ -3,12 +3,12 @@
 # Source: https://github.com/jamesgeorge007/github-activity-readme
 # Source: https://github.com/JasonEtco/activity-box
 
-name: Recent Activity
+name: Update README
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,6 +17,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
-      #- uses: jamesgeorge007/github-activity-readme@v0.1.7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
