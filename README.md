@@ -16,7 +16,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 ---
 
-### :zap: Weekly development breakdown
+### :chart_with_downwards_trend: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
