@@ -64,7 +64,7 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 
 <details>
   <summary><b>:free: Free resources</b></summary>
-
+ <br>
 - [Free SVG icons for popular brands](https://simpleicons.org/)
 - [Shields/Badges](https://github.com/badges/shields)
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
