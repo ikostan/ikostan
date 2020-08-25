@@ -20,11 +20,11 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 56 mins  ████████████████░░░░░░░░░   64.39 % 
-HTML         6 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 % 
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python       8 hrs 7 mins    █████████████▒░░░░░░░░░░░   53.23 % 
+HTML         6 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   43.14 % 
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
