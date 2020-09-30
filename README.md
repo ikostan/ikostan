@@ -20,10 +20,10 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2020 - 28 September, 2020
+Week: 22 September, 2020 - 29 September, 2020
 
-Python   1 hr 12 mins    ████████████████████████▒   96.97 % 
-JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Python   1 hr 42 mins    ████████████████████████▒   97.82 % 
+JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
 
