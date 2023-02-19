@@ -28,7 +28,7 @@ No Activity tracked this Week
 ### :zap: GitHub Stats
 
 
-![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=onedark)
+![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=cobalt)
 
 
 ---
