@@ -2,7 +2,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fikostan%2Fhit-counter)](https://hits.seeyoufarm.com)
 ![Profile views](https://gpvc.arturio.dev/ikostan)
-![Waka Readme](https://github.com/ikostan/ikostan/workflows/Waka%20Readme/badge.svg)
 
 ### Hi there 👋, my name is Egor Kostan
 
@@ -48,17 +47,6 @@ No Activity tracked this Week
  * Deploy Yourself
 
 Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
-  <summary><b>:chart_with_upwards_trend: WakaTime Weekly Metrics</b></summary>
- <br>
- WakaTime gives you an idea of the time you really spent on coding. This helps you boost your productivity and competitive edge.
-
-- [WakaTime Weekly Metrics on your Profile Readme](https://github.com/athul/waka-readme)
-- [Profile Readme Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
-
 </details>
 
 <details>
