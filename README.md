@@ -30,6 +30,7 @@ No Activity tracked this Week
 
 ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark))
 
 ---
 
@@ -37,7 +38,7 @@ No Activity tracked this Week
 <br>
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
- <br>
+ 
  Features:
 
  * GitHub Stats Card
