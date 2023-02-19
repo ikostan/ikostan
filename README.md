@@ -29,7 +29,7 @@ No Activity tracked this Week
 
 [![iKostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&hide=contribs,prs)
+![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true)
 
 
 ---
