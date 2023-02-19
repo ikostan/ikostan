@@ -29,6 +29,9 @@ No Activity tracked this Week
 
 [![iKostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&hide=contribs,prs)
+
+
 ---
 
 ### :wrench: How to build similar README
