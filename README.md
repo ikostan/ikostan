@@ -27,8 +27,7 @@ No Activity tracked this Week
 
 ### :zap: GitHub Stats
 
-[![Top Langs](https://github-readme-stats.ikostan.vercel.app/api/top-langs/?username=ikostan&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.ikostan.vercel.app/api?username=ikostan&show_icons=true&theme=merko&hide=issues) 
+[![iKostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
