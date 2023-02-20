@@ -31,7 +31,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 <br>
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
- 
+ <be>
  Features:
 
  * GitHub Stats Card
@@ -46,7 +46,7 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 
 <details>
   <summary><b>:bar_chart: Github Readme Streak Stats</b></summary>
- 
+ <be>
 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 Source: [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats))
