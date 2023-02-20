@@ -74,5 +74,6 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
   * [Shields/Badges](https://github.com/badges/shields)
   * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
   * [Markdown Here](https://markdown-here.com/livedemo.html)
+  * [Tables Generator](https://www.tablesgenerator.com/markdown_tables#)
 
 </details>
