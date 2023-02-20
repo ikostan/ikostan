@@ -14,7 +14,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 😊 Willing to contribute in opensource development projects.
 
 ---
-||
+|||
 |--|
 ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ikostan&theme=chartreuse-dark) 
