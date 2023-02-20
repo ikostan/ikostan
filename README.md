@@ -31,7 +31,8 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
   </tr>
   <tr>
     <td colspan="2">
-      ![ikostan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikostan&theme=chartreuse-dark)
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </td>
   </tr>
 </table>
