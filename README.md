@@ -42,6 +42,14 @@ Source: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats
 </details>
 
 <details>
+  <summary><b>:bar_chart: Github Readme Streak Stats</b></summary>
+ 
+Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+Source: [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats))
+</details>
+
+<details>
   <summary><b>:free: Free resources</b></summary>
  <br>
   
