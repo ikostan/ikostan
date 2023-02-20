@@ -13,10 +13,11 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in opensource development projects.
 
-|
-|1<td rowspan="2">3</td>
-|2 
-|4|5| 
+| 1 | 2 |
+|---|---|
+| 4 |
+| 7 |
+
 
 ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
 
