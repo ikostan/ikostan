@@ -22,6 +22,9 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ikostan)](https://git.io/streak-stats)
+
+
 ---
 
 ### :wrench: How to build similar README
