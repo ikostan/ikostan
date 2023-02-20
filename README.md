@@ -13,31 +13,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in opensource development projects.
 
----
 
-<table style="width:100%">
-  <tr>
-    <td>
-      ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
-</td>
-    <td rowspan="2">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark)
-</td>
-  </tr>
-  <tr>
-    <td>
-      ![GitHub Streak](https://streak-stats.demolab.com/?user=ikostan&theme=chartreuse-dark)
-</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</td>
-  </tr>
-</table>
-
----
 
 ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
 
