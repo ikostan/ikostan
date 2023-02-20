@@ -28,11 +28,11 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 ---
 
-### :wrench: How to build similar README
+### :wrench: How to build similar README:
 
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
-
+  <br>
    Features:
 
    * GitHub Stats Card
@@ -47,7 +47,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <details>
   <summary><b>:bar_chart: Github Readme Streak Stats</b></summary>
-
+  <br>
   Display your total contributions, current streak, and longest streak on your GitHub profile README
 
   Source: [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
@@ -56,7 +56,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <details>
   <summary><b>:bar_chart: Github Readme Activity Graph</b></summary>
-
+  <br>
   A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
   Source: [Github Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -65,7 +65,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <details>
   <summary><b>:free: Free resources</b></summary>
-  
+  <br>
   - [Free SVG icons for popular brands](https://simpleicons.org/)
   - [Shields/Badges](https://github.com/badges/shields)
   - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
