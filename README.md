@@ -14,6 +14,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 - 😊 Willing to contribute in opensource development projects.
 
 ---
+###  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
 
@@ -21,10 +22,12 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark&layout=compact)
 
 ---
+### Github Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ikostan&theme=chartreuse-dark)
 
 ---
+### Github Readme Activity Graph
 
 ![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikostan&theme=chartreuse-dark)
 
@@ -33,7 +36,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ### :wrench: How to build similar README:
 
 <details>
-  <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
+  <summary><b>:bar_chart: GitHub Stats</b></summary>
   <br/>
    Features:
 
@@ -49,7 +52,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 </details>
 
 <details>
-  <summary><b>:bar_chart: Github Readme Streak Stats</b></summary>
+  <summary><b>:bar_chart: Github Streak Stats</b></summary>
   <br/>
   Display your total contributions, current streak, and longest streak on your GitHub profile README
   <br/>
@@ -59,7 +62,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 </details>
 
 <details>
-  <summary><b>:bar_chart: Github Readme Activity Graph</b></summary>
+  <summary><b>:bar_chart: Github Activity Graph</b></summary>
   <br/>
   A dynamically generated activity graph to show your GitHub activities of last 31 days.
   <br/>
