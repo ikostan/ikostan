@@ -18,9 +18,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ![ikostan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)|
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ikostan&theme=chartreuse-dark)|
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark&layout=compact)|
-
-
-![ikostan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikostan&theme=chartreuse-dark)
+![ikostan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikostan&theme=chartreuse-dark)|
 
 ---
 
