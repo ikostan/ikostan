@@ -32,7 +32,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <details>
   <summary><b>:bar_chart: GitHub Readme Stats</b></summary>
-  <br>
+  <br/>
    Features:
 
    * GitHub Stats Card
@@ -47,25 +47,25 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 <details>
   <summary><b>:bar_chart: Github Readme Streak Stats</b></summary>
-  <br>
+  <br/>
   Display your total contributions, current streak, and longest streak on your GitHub profile README
-  <br>
+  <br/>
   Source: [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
   
 </details>
 
 <details>
   <summary><b>:bar_chart: Github Readme Activity Graph</b></summary>
-  <br>
+  <br/>
   A dynamically generated activity graph to show your GitHub activities of last 31 days.
-  <br>
+  <br/>
   Source: [Github Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details>
 
 <details>
   <summary><b>:free: Free resources</b></summary>
-  <br>
+  <br/>
   * [Free SVG icons for popular brands](https://simpleicons.org/)
   * [Shields/Badges](https://github.com/badges/shields)
   * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
