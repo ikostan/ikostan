@@ -27,7 +27,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 ---
 ### Github Activity Graph
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ikostan&theme=chartreuse-dark)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikostan&theme=chartreuse-dark)
 
 ---
 
