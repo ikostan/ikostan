@@ -11,7 +11,7 @@ My main interests are: Python:snake:, Software Automation (Selenium, Unit Test),
 
 - :racehorse: I’m currently learning [Django](https://www.djangoproject.com/) and [PyTorch](https://pytorch.org/)
 - 👯 I’m looking to collaborate with other developers
-- 😊 Willing to contribute in opensource development projects.
+- 😊 Willing to contribute in opensource development projects
 
 ---
 ###  GitHub Stats
