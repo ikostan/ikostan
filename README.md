@@ -6,7 +6,7 @@
 
 #### I am software developer enthusiast
 
-My main interests are: Python:snake:, Software Automation (Selenium, Unit Test), Django, AI (PyTorch)
+My main interests are: Python, Micro Python, Software Automation (Selenium, Unit Test), Django, AI (PyTorch)
 
 - :racehorse: I’m currently learning [Django](https://www.djangoproject.com/) and [PyTorch](https://pytorch.org/)
 - 👯 I’m looking to collaborate with other developers
