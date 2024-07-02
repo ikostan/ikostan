@@ -83,3 +83,11 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
   * [TableConvert](https://tableconvert.com/)
 
 </details>
+
+<details>
+  <summary><b>:free: GitHub Stats Generator</b></summary>
+  <br/>
+  
+  * [GitHub Stats Generator](https://gh-stats-gen.vercel.app/)
+
+</details>
