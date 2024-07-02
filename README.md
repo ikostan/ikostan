@@ -15,7 +15,11 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ###  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikostan&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&langs_count=8&theme=chartreuse-dark&layout=compact)
+
+---
+### Most Used Lang
+
+![ikostan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikostan&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 ### Github Streak Stats
