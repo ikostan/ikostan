@@ -97,3 +97,20 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
   * [GitHub Stats Generator](https://gh-stats-gen.vercel.app/)
 
 </details>
+
+<details>
+  <summary><b>:free: Codewars readme stats</b></summary>
+  <br/>
+  
+  * [GitHub Codewars readme stats](https://github.com/DiniFarb/codewars_readme_stats?tab=readme-ov-file)
+
+</details>
+
+<details>
+  <summary><b>:free: Shields</b></summary>
+  <br/>
+  
+  * [Concise, consistent, and legible badges](https://shields.io/)
+
+</details>
+
