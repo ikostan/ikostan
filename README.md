@@ -91,7 +91,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:free: GitHub Stats Generator</b></summary>
+  <summary><b>:bar_chart: GitHub Stats Generator</b></summary>
   <br/>
   
   * [GitHub Stats Generator](https://gh-stats-gen.vercel.app/)
@@ -99,7 +99,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:free: Codewars readme stats</b></summary>
+  <summary><b>:bar_chart: Codewars readme stats</b></summary>
   <br/>
   
   * [GitHub Codewars readme stats](https://github.com/DiniFarb/codewars_readme_stats?tab=readme-ov-file)
