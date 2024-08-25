@@ -32,6 +32,12 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikostan&theme=chartreuse-dark)
 
 ---
+### Codewars Stats
+
+![Codewars](https://github.r2v.ch/codewars?user=myFirstCode&top_languages=true)
+
+---
+
 
 ### :wrench: How to build similar README:
 
