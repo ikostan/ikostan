@@ -36,6 +36,8 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 
 ![Codewars](https://github.r2v.ch/codewars?user=myFirstCode&top_languages=true&theme=dark&stroke=white)
 
+[My Codewars solutions](https://github.com/iKostanOrg/codewars)
+
 ---
 
 
