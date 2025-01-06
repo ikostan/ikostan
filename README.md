@@ -9,7 +9,7 @@
 My main interests are: Python, Micro Python, Software Automation (Selenium, Unit Test), Godot.
 
 - 👯 I’m looking to collaborate with other developers
-- 😊 Willing to contribute in opensource development projects
+- 😊 Willing to contribute in open-source development projects
 
 ---
 ###  GitHub Stats
