@@ -34,7 +34,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ---
 ### GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikostan&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikostan&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### Codewars Stats
@@ -119,5 +119,13 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
   
   * [Concise, consistent, and legible badges](https://shields.io/)
 
+</details>
+
+<details>
+  <summary><b>:bar_chart: GitHub Profile Trophy</b></summary>
+  <br/>
+  🏆 Add dynamically generated GitHub Stat Trophies on your README
+  [Source](https://github.com/ryo-ma/github-profile-trophy)
+  
 </details>
 
