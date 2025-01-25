@@ -32,7 +32,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikostan&theme=chartreuse-dark)
 
 ---
-### GitHub Profile Trophy
+### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikostan&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
