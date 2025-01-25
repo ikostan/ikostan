@@ -122,10 +122,11 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:bar_chart: GitHub Profile Trophy</b></summary>
-  <br/>
+  <summary><b>🏆 GitHub Profile Trophy</b></summary>
+  
   🏆 Add dynamically generated GitHub Stat Trophies on your README
-  [Source](https://github.com/ryo-ma/github-profile-trophy)
+  
+  Source: [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
