@@ -148,3 +148,14 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
   
 </details>
 
+<details>
+  <summary><b>Readme-Icons</b></summary>
+
+  What is Readme-Icons?
+  
+  Readme-Icons is a collection of various image files (SVG, PNG, Gifs, etc.)
+  which are designed to be used within your own Readme file.
+  
+  [Readme-Icons](https://readme-workflows.github.io/Readme-Icons/)
+  
+</details>
