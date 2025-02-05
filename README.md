@@ -44,6 +44,11 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 [My Codewars solutions](https://github.com/iKostanOrg/codewars)
 
 ---
+### Snake Animation
+
+<img src="https://raw.githubusercontent.com/ikostan/ikostan/output/snake.svg" alt="Snake animation" />
+
+---
 
 
 ### :wrench: How to build similar README:
@@ -127,6 +132,15 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
   🏆 Add dynamically generated GitHub Stat Trophies on your README
   
   Source: [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+  
+</details>
+
+<details>
+  <summary><b>Snake Animation</b></summary>
+  
+  [Profile Readme Generator](https://profile-readme-generator.com/)
+
+  [Video Tutorial](https://www.youtube.com/watch?v=onUx22pgiBM&t=337s)
   
 </details>
 
