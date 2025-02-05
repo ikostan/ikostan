@@ -46,7 +46,11 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ---
 ### Snake Animation
 
-<img src="https://raw.githubusercontent.com/ikostan/ikostan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikostan/ikostan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikostan/ikostan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ikostan/ikostan/output/github-snake.svg" />
+</picture>
 
 ---
 
