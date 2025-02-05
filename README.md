@@ -58,7 +58,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ### :wrench: How to build similar README:
 
 <details>
-  <summary><b>:bar_chart: GitHub Stats</b></summary>
+  <summary><b>GitHub Stats</b></summary>
   <br/>
    Features:
 
@@ -74,7 +74,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:bar_chart: Github Streak Stats</b></summary>
+  <summary><b>Github Streak Stats</b></summary>
   <br/>
   Display your total contributions, current streak, and longest streak on your GitHub profile README
   <br/>
@@ -84,7 +84,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:bar_chart: Github Activity Graph</b></summary>
+  <summary><b>Github Activity Graph</b></summary>
   <br/>
   A dynamically generated activity graph to show your GitHub activities of last 31 days.
   <br/>
@@ -94,7 +94,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:free: Free resources</b></summary>
+  <summary><b>Free resources</b></summary>
   <br/>
   
   * [Free SVG icons for popular brands](https://simpleicons.org/)
@@ -107,7 +107,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:bar_chart: GitHub Stats Generator</b></summary>
+  <summary><b>GitHub Stats Generator</b></summary>
   <br/>
   
   * [GitHub Stats Generator](https://gh-stats-gen.vercel.app/)
@@ -115,7 +115,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:bar_chart: Codewars readme stats</b></summary>
+  <summary><b>Codewars readme stats</b></summary>
   <br/>
   
   * [GitHub Codewars readme stats](https://github.com/DiniFarb/codewars_readme_stats?tab=readme-ov-file)
@@ -123,7 +123,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>:free: Shields</b></summary>
+  <summary><b>Shields</b></summary>
   <br/>
   
   * [Concise, consistent, and legible badges](https://shields.io/)
@@ -131,7 +131,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 </details>
 
 <details>
-  <summary><b>🏆 GitHub Profile Trophy</b></summary>
+  <summary><b>GitHub Profile Trophy</b></summary>
   
   🏆 Add dynamically generated GitHub Stat Trophies on your README
   
