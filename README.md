@@ -24,7 +24,7 @@ My main interests are: Python, Micro Python, Software Automation (Selenium, Unit
 ---
 ### Github Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-d3oy.vercel.app?user=ikostan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-d3oy-git-main-egor-kostans-projects.vercel.app?user=ikostan&theme=dark)](https://git.io/streak-stats)
 
 ---
 ### Github Activity Graph
