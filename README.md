@@ -6,7 +6,7 @@
 
 #### I am software developer enthusiast
 
-My main interests are: Python, Micro Python, Software Automation (Selenium, Unit Test), Godot.
+My main interests are: Django, Python, Micro Python, Software Automation (Playwright, Pytest, Unit Test), Godot.
 
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in open-source development projects
