@@ -1,5 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://komarev.com/ghpvc/?username=ikostan)
+[![EXERCISM](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/myFirstCode)
 
 ### Hi there 👋, my name is Egor Kostan
 
