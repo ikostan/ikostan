@@ -19,7 +19,7 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 ---
 ### Most Used Lang
 
-![ikostan's Top Languages](https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=ikostan&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=15&card_width=500&theme=merko)
+![ikostan's Top Languages](https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=ikostan&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=merko)
 
 ---
 ### Github Streak Stats
