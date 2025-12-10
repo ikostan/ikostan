@@ -34,7 +34,7 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 ---
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy-seven-phi.vercel.app/?username=ikostan&theme=matrix&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-seven-phi.vercel.app/?username=ikostan&theme=matrix&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### Snake Animation
