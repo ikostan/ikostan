@@ -1,6 +1,6 @@
-[![EXERCISM](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/myFirstCode)
-![GitHub followers](https://img.shields.io/github/followers/ikostan)
-![Profile views](https://komarev.com/ghpvc/?username=ikostan)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/myFirstCode)
+![GitHub Followers](https://img.shields.io/github/followers/ikostan?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=ikostan&style=for-the-badge)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=4CF754&multiline=true&width=425&height=65&lines=Hi+there%2C+my+name+is+Egor+Kostan.;I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
 
