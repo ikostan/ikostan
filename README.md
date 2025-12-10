@@ -37,13 +37,6 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikostan&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-### Codewars Stats
-
-![Codewars](https://github.r2v.ch/codewars?user=myFirstCode&top_languages=true&theme=dark&stroke=white)
-
-[My Codewars solutions](https://github.com/iKostanOrg/codewars)
-
----
 ### Snake Animation
 
 <picture>
