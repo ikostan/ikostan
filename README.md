@@ -2,10 +2,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ikostan)
 [![EXERCISM](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/myFirstCode)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Egor+Kostan.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my+name+is+Egor+Kostan.;I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
 
-My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Automation (Playwright, Pytest, Unit Test), Godot v4.5`.
+### My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Automation (Playwright, Pytest, Unit Test), Godot v4.5`.
 
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in open-source development projects
@@ -137,6 +136,18 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
   [Profile Readme Generator](https://profile-readme-generator.com/)
 
   [Video Tutorial](https://www.youtube.com/watch?v=onUx22pgiBM&t=337s)
+  
+</details>
+
+<details>
+  <summary><b>Readme Typing SVG</b></summary>
+
+  Markdown files on GitHub support embedded images using Markdown or HTML.
+  You can customize your SVG on the demo site and use the image source in either of the following ways:
+  - MARKDOWN
+  - HTML
+  
+  [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo/)
   
 </details>
 
