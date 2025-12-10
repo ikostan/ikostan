@@ -34,6 +34,8 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 ---
 ### 🏆 GitHub Profile Trophy
 
+[![trophy](https://github-profile-trophy-cyyin.vercel.app/?username=ikostan&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikostan&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
