@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikostan)
 ![Profile views](https://komarev.com/ghpvc/?username=ikostan)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my+name+is+Egor+Kostan.;I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF754&multiline=true&lines=Hi+there%2C+my+name+is+Egor+Kostan.;I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
 
 My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Automation (Playwright, Pytest, Unit Test), Godot v4.5`.
 
