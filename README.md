@@ -22,7 +22,7 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 ---
 ### Github Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-mauve.vercel.app?user=ikostan&theme=merko&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-mauve.vercel.app?user=ikostan&theme=merko&hide_border=false&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 ### Github Activity Graph
