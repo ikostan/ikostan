@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=4CF754&multiline=true&width=425&height=65&lines=Hi+there%2C+my+name+is+Egor+Kostan.;I+am+software+developer+enthusiast.)](https://git.io/typing-svg)
 
-My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Automation (Playwright, Pytest, Unit Test), Godot v4.5`.
+My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Automation (Playwright, Pytest, Unit Test), Godot v4.X`.
 
 - 👯 I’m looking to collaborate with other developers
 - 😊 Willing to contribute in open-source development projects
