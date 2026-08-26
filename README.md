@@ -27,7 +27,7 @@ My main interests are: `Python, Micro Python, GDScript, JS, Django, Software Aut
 ---
 ### Github Activity Graph
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikostan&theme=chartreuse-dark)
+![github activity graph](https://github-readme-activity-graph-livid-five.vercel.app/graph?username=ikostan&theme=chartreuse-dark)
 
 ---
 ### 🏆 GitHub Profile Trophy
